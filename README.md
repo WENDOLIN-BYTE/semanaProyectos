@@ -38,7 +38,7 @@ Listas Ordenadas
 La diferencia de los enlaces: el segundo enlace arroja una pequeña ventana indicacndo el mensaje que se ha puesto entre comillas "IR a AULES"
 
 ## Imágenes
-![SuperMario](./images/supermario.png) 
+![supermario](./IMAGES/supermario.png) 
 
 <!-- enlace de una imagen externa -->
 ![Sonic](https://static.wikia.nocookie.net/sonic/images/6/6d/Sonic_67.png)

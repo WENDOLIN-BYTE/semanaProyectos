@@ -74,4 +74,14 @@ public class EstructuraRepetitivaFor1 {
     }
 }
 ```
+### Emojis
+- [x] Tarea completada :tada:
+- [ ] Tarea pendiente  
 
+- [x] Base Datos
+- [ ] Diagrama Casos Uso
+
+      
+:+1:  :shipit:
+
+:smile: :rocket: :+1: :octocat:

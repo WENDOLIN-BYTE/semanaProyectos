@@ -5,3 +5,7 @@
 ##### semana Proyectos 5
 ###### semana Proyectos 6
 
+*Texto en cursiva* o _Texto en cursiva_  
+**Texto en negrita** o __Texto en negrita__  
+~~Texto tachado~~
+`Texto en monospace

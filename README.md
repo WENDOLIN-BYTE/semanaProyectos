@@ -10,3 +10,8 @@
 ~~Texto tachado~~
 `Texto en monospace
 `Texto en monospace`
+
+Listas Ordenadas
+1. Primer ítem
+2. Segundo ítem
+3. Tercer ítem

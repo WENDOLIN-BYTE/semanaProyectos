@@ -85,3 +85,23 @@ public class EstructuraRepetitivaFor1 {
 :+1:  :shipit:
 
 :smile: :rocket: :+1: :octocat:
+
+### Sintaxis GitHub
+> [!NOTE]  
+> Destaca la información que los usuarios deben tener en cuenta, incluso al hojear. 
+
+> [!TIP]
+> Información opcional para ayudar a un usuario a tener más éxito
+
+> [!IMPORTANT]  
+> Información crucial necesaria para que los usuarios tengan éxito
+
+> [!WARNING]  
+> Contenido crítico que exige la atención inmediata del usuario debido a los riesgos potenciales.
+
+> [!CAUTION]
+> Consecuencias potenciales negativas de una acción.
+
+
+
+

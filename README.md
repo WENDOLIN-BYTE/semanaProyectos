@@ -46,3 +46,20 @@ La diferencia de los enlaces: el segundo enlace arroja una pequeña ventana indi
 <!-- usar HTML -->
 <img src="https://static.wikia.nocookie.net/sonic/images/6/6d/Sonic_67.png" alt="Imagen" width="100"/>
 
+
+### Tablas
+
+| julio    | noguera |   |   |   |   |   |   |   |   |
+|----------|---------|---|---|---|---|---|---|---|---|
+| emiliano | torres  |   |   |   |   |   |   |   |   |
+| gema     | nolasco |   |   |   |   |   |   |   |   |
+|          |         |   |   |   |   |   |   |   |   |
+|          |         |   |   |   |   |   |   |   |   |
+|          |         |   |   |   |   |   |   |   |   |
+|          |         |   |   |   |   |   |   |   |   |
+|          |         |   |   |   |   |   |   |   |   |
+|          |         |   |   |   |   |   |   |   |   |
+|          |         |   |   |   |   |   |   |   |   |
+
+
+

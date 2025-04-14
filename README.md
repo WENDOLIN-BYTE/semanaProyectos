@@ -9,3 +9,4 @@
 **Texto en negrita** o __Texto en negrita__  
 ~~Texto tachado~~
 `Texto en monospace
+`Texto en monospace`
